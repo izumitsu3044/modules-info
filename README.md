@@ -2,7 +2,7 @@ py -m venv venv
 
 venv\Scripts\activate
 
-pip install django
+pip install django==5.2
 
 django-admin startproject shop
 
