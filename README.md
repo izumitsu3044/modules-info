@@ -1,6 +1,6 @@
 py -m venv venv
 
-venv\Scripts\activate
+source venv\Scripts\activate
 
 python -m pip install --upgrade pip
 
